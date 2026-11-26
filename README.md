@@ -198,7 +198,7 @@ ssh -L 1024:127.0.0.1:3306 vboxuser@192.168.1.91
 ```
 
 
-![[16_tunnel_mariabd.png]]
+![[16_tunnel_mariadb.png]]
 
 *Figure 16 : Création du tunnel SSH (port local 1024 vers le port 3306 de MariaDB).*
 
