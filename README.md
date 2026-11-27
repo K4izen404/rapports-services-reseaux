@@ -3,7 +3,7 @@
 Dépôt regroupant les comptes rendus de TP du cours **Services Réseaux Avancés**.
 
 - **Établissement** : École Supérieure Polytechnique (ESP), Université Cheikh Anta Diop (UCAD)
-- **Formation** : Licence 3 Génie Logiciel et Système d'Information (L3 GLSI-A)
+- **Formation** : Licence 3 Génie Logiciel et Système d'Information (L3 GLSI-C)
 - **Année universitaire** : 2026-2027
 - **Enseignant** : Dr GUEYE
 
